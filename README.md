@@ -13,4 +13,4 @@
   </a>
 </p>
 
-### 📝 Últimos artículos en mi blog
+### 📝 Latest articles on my blog
