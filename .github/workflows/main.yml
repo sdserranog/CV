@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'your-username'
+          USERNAME: 'sdserranog'
           COUNT: 6
           STYLE: "blog-left"
         env:
