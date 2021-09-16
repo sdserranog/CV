@@ -17,6 +17,13 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+
+<a href="https://sdserranog.hashnode.dev/tipos-de-datos-en-javascript-cktlo8wc604cnx4s1bh568oum" title="Tipos de datos en JavaScript"><strong>Tipos de datos en JavaScript</strong></a>
+<div><strong>15 Sept 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Las variables vienen en todas las formas y tamaños. Algunas son usadas para guardar números, otras texto y algunas para guardar tipos de datos mucho más complejos.
+Hoy descubrirás 8 tipos de datos en JavaScript y sus principales características.
+Stri... </p> <br/> <br/>
+<p align="left">
 <a href="https://sdserranog.hashnode.dev/5-mejores-fuentes-gratuitas-para-programar-en-2021-cktesh7pe04dlxas15610gf1t" title="5 mejores fuentes gratuitas para programar en 2021"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1631304107266/QT-gqIrBE.png" alt="5 mejores fuentes gratuitas para programar en 2021" width="250px" align="left" /></a>
 <a href="https://sdserranog.hashnode.dev/5-mejores-fuentes-gratuitas-para-programar-en-2021-cktesh7pe04dlxas15610gf1t" title="5 mejores fuentes gratuitas para programar en 2021"><strong>5 mejores fuentes gratuitas para programar en 2021</strong></a>
 <div><strong>11 Sept 2021</strong> | <strong>11 Sept 2021</strong></div>
