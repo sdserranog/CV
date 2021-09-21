@@ -17,6 +17,17 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+
+<a href="https://sdserranog.hashnode.dev/substring-en-javascript-cktt09e200ikahvs149arduof" title="SubString en JavaScript"><strong>SubString en JavaScript</strong></a>
+<div><strong>20 Sept 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Esta pregunta puede resultar difícil, incluso para los desarrolladores más experimentados. 
+En este post descubrirás como usar cada uno de ellos y cuando.
+Sintaxis
+String.substr( desde, longitud )
+
+String.slice( desde, hasta )
+String.substring( desde... </p> <br/> <br/>
+<p align="left">
 <a href="https://sdserranog.hashnode.dev/tipos-de-datos-en-javascript-cktlo8wc604cnx4s1bh568oum" title="Tipos de datos en JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632006804685/RIbQqwQC5.jpeg" alt="Tipos de datos en JavaScript" width="250px" align="left" /></a>
 <a href="https://sdserranog.hashnode.dev/tipos-de-datos-en-javascript-cktlo8wc604cnx4s1bh568oum" title="Tipos de datos en JavaScript"><strong>Tipos de datos en JavaScript</strong></a>
 <div><strong>15 Sept 2021</strong> | <strong>18 Sept 2021</strong></div>
@@ -61,12 +72,4 @@ Palenight Theme - Olaolu Ola... </p> <br/> <br/>
 <a href="https://sdserranog.hashnode.dev/combinar-arrays-en-javascript-ckt2dgezq09kl2is19xie6s70" title="Combinar Arrays en JavaScript 🧑‍💻"><strong>Combinar Arrays en JavaScript 🧑‍💻</strong></a>
 <div><strong>2 Sept 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Una de las operaciones más comunes cuando trabajamos con múltiples arrays, se trata de combinarlos para formar un solo array que contenga todos los elementos combinados. En este post, encontrarás tres alternativas para llevar a cabo esta misión 🚀  y... </p> <br/> <br/>
-<p align="left">
-<a href="https://sdserranog.hashnode.dev/remover-elementos-duplicados-en-un-array-cksqw1nk10mf2wps19p9oconk" title="Remover elementos duplicados en un array"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629859094144/3Tvi57mJ1.jpeg" alt="Remover elementos duplicados en un array" width="250px" align="left" /></a>
-<a href="https://sdserranog.hashnode.dev/remover-elementos-duplicados-en-un-array-cksqw1nk10mf2wps19p9oconk" title="Remover elementos duplicados en un array"><strong>Remover elementos duplicados en un array</strong></a>
-<div><strong>25 Aug 2021</strong> | <strong>25 Aug 2021</strong></div>
-<br/> En este tutorial, aprenderás tres maneras de filtrar elementos duplicados en un array y obtener uno nuevo con valores únicos.
-Usando Set
-Este método es mi favorito por su simpleza y el poco espacio que necesita. 😁
-const animals = ['🐶', '🐭', '🐭', ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
