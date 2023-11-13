@@ -17,6 +17,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sdserranog.hashnode.dev/dark-mode-with-vite-tailwind-storybook-2023-clnqpp7xq000308mt6f5uffkv" title="The Ultimate Guide to Dark Mode with Vite, React, and Tailwind in Storybook 2023"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697328375730/020e2ff4-4854-4789-bf2d-ebe937f29f54.jpeg" alt="The Ultimate Guide to Dark Mode with Vite, React, and Tailwind in Storybook 2023" width="250px" align="left" /></a>
+<a href="https://sdserranog.hashnode.dev/dark-mode-with-vite-tailwind-storybook-2023-clnqpp7xq000308mt6f5uffkv" title="The Ultimate Guide to Dark Mode with Vite, React, and Tailwind in Storybook 2023"><strong>The Ultimate Guide to Dark Mode with Vite, React, and Tailwind in Storybook 2023</strong></a>
+<div><strong>15 Oct 2023</strong></div>
+<br/> As developers, we're no strangers to the challenges of ensuring our components look impeccable in both light and dark mode. With the latest features of Tailwind CSS and Storybook as our testing playground, we're about to turn those challenges into tr... </p> <br/> <br/>
+<p align="left">
 
 <a href="https://sdserranog.hashnode.dev/substring-en-javascript-cktt09e200ikahvs149arduof" title="SubString en JavaScript"><strong>SubString en JavaScript</strong></a>
 <div><strong>20 Sept 2021</strong></div>
@@ -67,9 +72,4 @@ Code Blue - Sujan
 Download
 
 Palenight Theme - Olaolu Ola... </p> <br/> <br/>
-<p align="left">
-<a href="https://sdserranog.hashnode.dev/combinar-arrays-en-javascript-ckt2dgezq09kl2is19xie6s70" title="Combinar Arrays en JavaScript 🧑‍💻"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1630553336622/sW4rgpO0f.png" alt="Combinar Arrays en JavaScript 🧑‍💻" width="250px" align="left" /></a>
-<a href="https://sdserranog.hashnode.dev/combinar-arrays-en-javascript-ckt2dgezq09kl2is19xie6s70" title="Combinar Arrays en JavaScript 🧑‍💻"><strong>Combinar Arrays en JavaScript 🧑‍💻</strong></a>
-<div><strong>2 Sept 2021</strong></div>
-<br/> Una de las operaciones más comunes cuando trabajamos con múltiples arrays, se trata de combinarlos para formar un solo array que contenga todos los elementos combinados. En este post, encontrarás tres alternativas para llevar a cabo esta misión 🚀  y... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
